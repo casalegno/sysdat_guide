@@ -1,17 +1,15 @@
-GIT comandi per aggiornare la macchina 
-========================
+# GIT comandi per aggiornare la macchina
 
-Procedimenti preliminari
-------------------------
+Su gitbooks trovi una guida completa ed in Italiano su come funziona Git.
+https://yunwuxin1.gitbooks.io/git/content/it/
+Su github trovi i comandi principali da eseguire con Git
+https://gist.github.com/tesseslol/da62aabec74c4fed889ea39c95efc6cc
+
+## Procedimenti preliminari
 
 Come prassi eseguire il backup delle cartelle da aggiornare prima di fare la git e il backup del database relativo al crm.
 
-
-
-
-
-Aggiorniamo Genius7
-------------------------
+## Aggiorniamo Genius7
 
 L'aggiornamento del PMS va effettuato dalla cartella dell'ambiente e si esegue con Git sequendo i passai indicati qui sotto.
 _Questi passaggi valgono sia per qualsiasi applicativo gestito con git._
